@@ -25,7 +25,7 @@ Track Builder, Sequencer and Sampler app working with MIDI and computer keyboard
 	<img src="./images/mielo-1.png" width="80%" title="capture">
 </p>
 
-<style type="text/css">
+<style>
 li {
 	line-height: 20px;
 	padding: 0;

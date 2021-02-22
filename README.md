@@ -1,17 +1,33 @@
 <h1>Mielo Audio</h1>
 
-Track Builder, Sequencer and Sampler app working with MIDI or computer keyboards.
+Track Builder, Sequencer and Sampler app working with MIDI and computer keyboards.
 
 <ul>
 	<li>
 		<b>Track Builder:</b>
-		<p>Pattern Loop build from 16 tracks with individual volume and stereo (pan) controls.</p>
-		<p>Set the size of the loop (bar and beat), the tempo and start playing your notes on a MIDI or computer keyboard track by track.</p>
+		<ul>
+			<li>
+				- Pattern Loop build from 16 tracks with individual volume and stereo (pan) controls.
+			</li>
+			<li>
+				- Set the size of your loop (bar and beat), the tempo and start playing your notes with the choosen instrument on a MIDI or computer keyboard track by track.
+			</li>
+			<li>
+				- The piano keys let you see which ones can play a sound, it can be a complete instrument or a set of personalized sounds (drums, ambient sound, ...). In the next version you will be able to click on one of the greyed keys to add a new sound.
+			</li>
+		</ul>
 	</li>
 </ul>
 
 
 
 <p align="center">
-  <img src="./images/mielo-1.png" width="80%" title="capture">
+	<img src="./images/mielo-1.png" width="80%" title="capture">
 </p>
+
+<style type="text/css">
+li {
+	line-height: 20px;
+	padding: 0;
+}
+</style>

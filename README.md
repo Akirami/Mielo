@@ -1,6 +1,17 @@
 <h1>Mielo Audio</h1>
 
 Track Builder, Sequencer and Sampler app working with MIDI and computer keyboards.
+<ul>
+	<li>
+		Interface build with Vue.js and Webview
+	</li>
+	<li>
+		Rust App engine with <a href = 'https://tauri.studio/en/'>Tauri</a> 
+	</li>
+	<li>
+		Rust Audio Engine build with <a gref = 'https://docs.rs/rodio/0.13.0/rodio/'>Rodio (Audio Playback)</a> and <a href = ''>CPAL (Low-level library for audio input and output in pure Rust)</a>.
+	</li>
+</ul>
 
 <ul>
 	<li>

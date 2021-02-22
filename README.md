@@ -7,13 +7,13 @@ Track Builder, Sequencer and Sampler app working with MIDI and computer keyboard
 		<b>Track Builder:</b>
 		<ul>
 			<li>
-				- Pattern Loop build from 16 tracks with individual volume and stereo (pan) controls.
+				Pattern Loop build from 16 tracks with individual volume and stereo (pan) controls.
 			</li>
 			<li>
-				- Set the size of your loop (bar and beat), the tempo and start playing your notes with the choosen instrument on a MIDI or computer keyboard track by track.
+				Set the size of your loop (bar and beat), the tempo and start playing your notes with the choosen instrument on a MIDI or computer keyboard track by track.
 			</li>
 			<li>
-				- The piano keys let you see which ones can play a sound, it can be a complete instrument or a set of personalized sounds (drums, ambient sound, ...). In the next version you will be able to click on one of the greyed keys to add a new sound.
+				The piano keys let you see which ones can play a sound, it can be a complete instrument or a set of personalized sounds (drums, ambient sound, ...). In the next version you will be able to click on one of the greyed keys to add a new sound.
 			</li>
 		</ul>
 	</li>
